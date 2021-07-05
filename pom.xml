@@ -9,7 +9,7 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>custom-rest-action</module>
-        <module>custom-analysis-word</module>
+        <module>custom-analysis-token</module>
     </modules>
 
     <properties>
